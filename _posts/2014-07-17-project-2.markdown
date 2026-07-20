@@ -2,11 +2,11 @@
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: cake.png
+img: Adobe Express - arduino 1.png
 alt: image-alt
 title: RPM Shift Light
 project-date: June 2026
 # client: Start Bootstrap
 # category: Web Development
-description: designed RPM-based shift light using arduino nano. modeled parts and 3d printed case.
+description: Designed RPM-based shift light using arduino nano. Modeled parts and 3d printed case.
 ---

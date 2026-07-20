@@ -4,7 +4,7 @@ email: istewart@umass.edu
 url: https://istewart-engineering.github.io/mechanical-engineering-portfolio-1/
 description: "Mechanical engineering portfolio showcasing my personal projects, skills, and experience."
 keywords: "mechanical engineering, portfolio, projects, skills"
-skills: "MatLab, SolidWorks"
+skills: "MatLab, SolidWorks, Fabrication, Microcontrollers"
 meta_author: Stewart Isaac
 
 # Google webmaster tools
@@ -25,10 +25,11 @@ contact: static
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 18bc9c #80B3FF
-  primary-rgb: "24,288,156" #"128,179,255"
-  secondary: 2c3e50 #FD6E8A
-  secondary-dark: 233140 #A2122F
+primary: 1E3A5F
+primary-rgb: "30,58,95"
+
+secondary: 3B82F6
+secondary-dark: 1D4ED8
 
 # Footer settings
 # footer:
