@@ -86,9 +86,14 @@ header {
     background: #{{ site.color.primary }};
 }
 
-header .container {
-    padding-top: 100px;
-    padding-bottom: 50px;
+header img {
+    display: block;
+    margin: 0 auto 20px;
+    max-width: 200px;
+    width: 100%;
+    height: auto;
+    border-radius: 50%;
+    border: 4px solid #fff;
 }
 
 header img {
