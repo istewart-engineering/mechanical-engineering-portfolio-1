@@ -2,7 +2,7 @@
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: Adobe Express - arduino 1.png
+img: circuit board.png
 alt: image-alt
 title: RPM Shift Light
 project-date: June 2026

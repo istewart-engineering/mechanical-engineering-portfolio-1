@@ -94,7 +94,7 @@ header .container {
 header img.img-responsive {
     display: block;
     margin: 0 auto 20px;
-    max-width: 150px;
+    max-width: 200px;
     width: 100%;
     height: auto;
     border-radius: 50%;
@@ -486,4 +486,10 @@ footer .footer-below {
 .modal.fade.in {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
+}
+.portfolio-link img.img-responsive {
+    width: 100%;
+    height: 280px;
+    object-fit: cover;
+    object-position: center;
 }
