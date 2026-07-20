@@ -493,3 +493,12 @@ footer .footer-below {
     object-fit: cover;
     object-position: center;
 }
+#contact .btn-outline {
+    border-color: #{{ site.color.primary }};
+    color: #{{ site.color.primary }};
+}
+
+#contact .btn-outline:hover {
+    background: #{{ site.color.primary }};
+    color: #fff;
+}
