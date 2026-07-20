@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: Adobe Express - seat bracket 1.png
+img: Adobe Express - seat bracket 2.png
 images:
     - Adobe Express - seat bracket 2.png
 alt: image-alt
