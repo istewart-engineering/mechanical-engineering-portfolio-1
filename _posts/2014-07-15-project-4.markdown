@@ -3,10 +3,8 @@ layout: default
 modal-id: 4
 date: 2014-07-15
 img: shift_light_thumbnail.png
-video: shift lightmp4.mp4
+video: shift light mp4.mp4
 alt: image-alt
 project-date: July 2026
-client: Start Bootstrap
-category: Web Development
 description: Final design of RPM activated shift light
 ---
