@@ -1,12 +1,11 @@
 ---
 layout: default
 modal-id: 5
-published: false
+published: true
 date: 2014-07-14
-img: safe.png
+img: engine swap.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: June 2025
+description: Swapped a 1999 NB Miata engine into my 1990 NA Miata after it's original engine stopped holding compression.
+title: Engine Swap
 ---

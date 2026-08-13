@@ -7,4 +7,5 @@ video: shift light mp4.mp4
 alt: image-alt
 project-date: July 2026
 description: Final design of RPM activated shift light
+title: RPM Activated Shift Light
 ---

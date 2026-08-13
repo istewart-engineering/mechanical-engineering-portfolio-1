@@ -4,7 +4,7 @@ modal-id: 2
 date: 2014-07-17
 img: circuit board.png
 alt: image-alt
-title: RPM Shift Light
+title: Electronics
 project-date: June 2026
 # client: Start Bootstrap
 # category: Web Development

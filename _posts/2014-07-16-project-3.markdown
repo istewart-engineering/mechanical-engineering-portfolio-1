@@ -2,10 +2,11 @@
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: Screenshot 2026-07-20 172245.png
+img: assem.png
 alt: image-alt
 project-date: June 2026
 client: Start Bootstrap
 category: Web Development
-description: Designed electronics housing and LED housing to fit flush with steeing wheel in Solidworks.
+description: Designed custom electronics housing and LED housing.
+title: SolidWorks Design
 ---
