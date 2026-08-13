@@ -9,6 +9,6 @@ alt: image-alt
 project-date: June 2025
 # client: Start Bootstrap
 # category: Web Development
-description: Developed custom seat bracket adapters for bucket seats. This was to upgrade the seats while retaining the OEM adjustable sliding rails.
-title: Custom Seat Brackets
+description: Fabricated a support brace for my bucket seat brackets. This was to upgrade from the stock car seats while retaining their adjustable sliding rails.
+title: Custom Seat Bracket Brace
 ---
