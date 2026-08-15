@@ -8,5 +8,5 @@ title: Electronics
 project-date: June 2026
 # client: Start Bootstrap
 # category: Web Development
-description: Assembled a circuit using an Arduino nano, octocoupler, buck converter and resistors to use my car's battery to power and control an LED strip to use as an RPM activated shift light.
+description: Assembled a circuit using an Arduino nano, optocoupler, buck converter and resistors to use my car's battery to power and control an LED strip to use as an RPM activated shift light.
 ---
