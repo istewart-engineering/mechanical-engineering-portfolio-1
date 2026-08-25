@@ -5,8 +5,6 @@ date: 2014-07-16
 img: assem.png
 alt: image-alt
 project-date: June 2026
-client: Start Bootstrap
-category: Web Development
-description: Designed custom electronics housing and LED housing.
+description: Designed custom electronics housing and LED housing to hide and store electronics and LEDs.
 title: SolidWorks Design
 ---
