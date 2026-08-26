@@ -4,8 +4,12 @@ modal-id: 4
 date: 2014-07-15
 img: shift_light_thumbnail.png
 video: shift light mp4.mp4
+images:
+    - assem.png
+    - circuit board.png
 alt: image-alt
 project-date: July 2026
-description: Final design of RPM activated shift light
-title: RPM Activated Shift Light
+description: Assembled a circuit using an Arduino nano, optocoupler, buck converter and resistors to use my car's battery to power and control an LED strip to use as an RPM activated shift light. The Arduino read the car's tachometer pulse using an optocoupler for noise filtering and used it to control the LED strip. The buck converter was used to convert the car's switched 12V source to the 5V necessary to power the LED strip and Arduino. Also designed custom 3D printed electronics housing and LED housing to cleanly store all the project wires and components. 
+title: RPM Activated Shift Light 
+Skills: Microcontrollers, 3D printing, Circuit design, electrical systems
 ---

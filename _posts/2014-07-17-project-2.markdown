@@ -1,12 +1,13 @@
 ---
 layout: default
 modal-id: 2
+published: false
 date: 2014-07-17
 img: circuit board.png
 alt: image-alt
 title: Electronics
 project-date: June 2026
-# client: Start Bootstrap
+Skills: Microcontrollers, 3D printing, Circuit design, electrical systems
 # category: Web Development
-description: Assembled a circuit using an Arduino nano, optocoupler, buck converter and resistors to use my car's battery to power and control an LED strip to use as an RPM activated shift light.
+description: Assembled a circuit using an Arduino nano, optocoupler, buck converter and resistors to use my car's battery to power and control an LED strip to use as an RPM activated shift light. The Arduino read the car's tachometer pulse using an optocoupler for noise filtering and used it to control the LED strip. The buck converter was used to convert the car's switched 12V source to the 5V necessary to power the LED strip and Arduino. Also designed custom 3D printed electronics housing and LED housing to cleanly store all the project wires and components. 
 ---

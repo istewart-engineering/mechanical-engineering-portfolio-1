@@ -8,4 +8,5 @@ alt: image-alt
 project-date: June 2025
 description: Swapped a 1999 NB Miata engine into my 1990 NA Miata after it's original engine stopped holding compression. Handled mechanical issues such as leaking fuel injectors due to age and body modification due to engine size incompatibility. 
 title: Engine Swap
+Skills: Mechanical Troubleshooting, Engine Removal/Installation
 ---

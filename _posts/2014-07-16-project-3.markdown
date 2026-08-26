@@ -2,6 +2,7 @@
 layout: default
 modal-id: 3
 date: 2014-07-16
+published: false
 img: assem.png
 alt: image-alt
 project-date: June 2026
